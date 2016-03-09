@@ -9,3 +9,8 @@ a{
 a:hover{
   background-color: black;
 }
+body {
+    background-position: center;
+   
+    background-repeat: no-repeat;
+}
